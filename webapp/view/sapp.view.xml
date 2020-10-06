@@ -1,0 +1,5 @@
+<mvc:View controllerName="demo.ZMasterDetailDemo.controller.sapp" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
+<SplitApp id="idApp">
+	
+	</SplitApp>
+</mvc:View>
